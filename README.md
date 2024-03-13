@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)
 [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20All%20(%C2%B1133MB)-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
-> [!WARNING]
+> [!WARNING]  
 > These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Android_Robot_Head_2023.svg" width="18"> Android
