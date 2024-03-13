@@ -1,6 +1,7 @@
 # Awesome-Ringtone
+![](https://awesome.re/badge.svg)
 
-An awesome & curated list of brands ringtone.  
+📞📲🎶 An awesome & curated list of brands ringtone.
 
 [![](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)  
 
