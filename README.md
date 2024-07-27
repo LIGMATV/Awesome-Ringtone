@@ -2,12 +2,12 @@
 ![](https://awesome.re/badge.svg)
 
 📞📲🎶 An awesome & curated list of brands ringtone.  
-The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 
 [![](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)
 [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20All%20(%C2%B1133MB)-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
-> [!WARNING]  
+> **⚠️ WARNING**
+> 
 > These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
 
 ## ![logo](https://api.iconify.design/simple-icons:android.svg) Android
@@ -129,4 +129,5 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 
 ---
 
-Want to share your thoughts about some ringtones here? Say it to [💬 Discussion](https://github.com/LIGMATV/Awesome-Ringtone/discussions)!
+Want to share your thoughts about some ringtones here? Say it to [💬 Discussion](https://github.com/LIGMATV/Awesome-Ringtone/discussions)!  
+Icons provided by [Simple Icons](https://simpleicons.org/) with [Iconify](https://iconify.design/), playable audios link delivered with [JSDelivr](https://www.jsdelivr.com/).
