@@ -1,7 +1,8 @@
 # Awesome-Ringtone
 ![](https://awesome.re/badge.svg)
 
-📞📲🎶 An awesome & curated list of brands ringtone.
+📞📲🎶 An awesome & curated list of brands ringtone.  
+The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 
 [![](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)
 [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20All%20(%C2%B1133MB)-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
@@ -10,52 +11,118 @@
 > These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Android_Robot_Head_2023.svg" width="18"> Android
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20mp3-07bbbc?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/raw/main/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
+* [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
 * **Length : 00:00:21**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="18"> Apple
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Apple%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Apple)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FApple)
+* [2007 - Marimba](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Apple/2007%20-%20Marimba.mp3)
+* [2010 - Opening](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Apple/2010%20-%20Opening.mp3)
+* [2017 - Reflection](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Apple/2017%20-%20Reflection.mp3)
 * **Length : 00:00:52**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="18"> Google 
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Google%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Google%20Pixel)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FGoogle%20Pixel)
+* [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
+* [2016 - Zen](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Zen.mp3)
+* [2017 - The Big Adventure](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2017%20-%20The%20Big%20Adventure.mp3)
+* [2021 - Your New Adventure](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2021%20-%20Your%20New%20Adventure.mp3)
 * **Length : 00:01:19**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/LG_symbol.svg" width="18"> LG
-* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20LG%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/LG)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FLG)
+* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20LG%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/LG)
+* [2012 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2012%20-%20Life's%20Good.mp3)
+* [2013 - Life's Good Music](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2013%20-%20Life's%20Good%20Music.mp3)
+* [2013 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2013%20-%20Life's%20Good.mp3)
+* [2014-15 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2014-15%20-%20Life's%20Good.mp3)
+* [2016 - Life's Good Music](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2016%20-%20Life's%20Good%20Music.mp3)
+* [2016-17 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2016-17%20-%20Life's%20Good.mp3)
+* [2018-19 - Cello Quartet](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2018-19%20-%20Cello%20Quartet.mp3)
+* [2018-19 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2018-19%20-%20Life's%20Good.mp3)
+* [2019 - Funky](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2019%20-%20Funky.mp3)
+* [2019 - Life's Good v2](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2019%20-%20Life's%20Good%20v2.mp3)
+* [2019 - Moombathon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2019%20-%20Moombathon.mp3)
+* [2019 - Piano](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2019%20-%20Piano.mp3)
+* [2019 - Sapphire](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2019%20-%20Sapphire.mp3)
+* [2020 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2020%20-%20Life's%20Good.mp3)
+* [2021 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2021%20-%20Life's%20Good.mp3)
 * **Length : 00:21:13**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/OPPO_logo.svg" width="50"> Oppo
-* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Oppo%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Oppo)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FOppo)
+* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Oppo%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Oppo)
+* [2013 - Enjoy](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2013%20-%20Enjoy.mp3)
+* [2016 - Future](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2016%20-%20Future.mp3)
+* [2018 - Colorful Life](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2018%20-%20Colorful%20Life.mp3)
+* [2018 - It's Realme](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)
+* [2019 - Pure](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2019%20-%20Pure.mp3)
+* [2020 - Calm](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2020%20-%20Calm.mp3)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Poco_Smartphone_Company_logo.svg" width="50"> Poco
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20mp3-07bbbc?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/raw/main/ringtones/Xiaomi/2018%20-%20Poco.mp3)
+* [2018 - Poco](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2018%20-%20Poco.mp3)
 * **Length : 00:00:22**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Realme_logo.svg" width="50"> Realme
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20mp3-07bbbc?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/raw/main/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)
+* [2018 - It's Realme](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)
 * **Length : 00:00:23**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" width="50"> Samsung
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Samsung%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Samsung)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FSamsung)
+* [2006 - Original](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2006%20-%20Original.mp3)
+* [2008 - Original Flute](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2008%20-%20Original%20Flute.mp3)
+* [2008 - Original Galaxy S](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2008%20-%20Original%20Galaxy%20S.mp3)
+* [2011 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3)
+* [2012 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3)
+* [2013-14 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3)
+* [2014 - Over the Horizon Soundcamp Live - Berlin IFA 2014](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2014%20-%20Over%20the%20Horizon%20Soundcamp%20Live%20-%20Berlin%20IFA%202014.mp3)
+* [2015 - Over the Horizon - TizenOS](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20-%20TizenOS.mp3)
+* [2015 - Over the Horizon Soundcamp Looper - Berlin IFA 2015](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20Soundcamp%20Looper%20-%20Berlin%20IFA%202015.mp3)
+* [2015 - Over the Horizon Unpacked v1](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20Unpacked%20v1.mp3)
+* [2015 - Over the Horizon Unpacked v2](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20Unpacked%20v2.mp3)
+* [2015 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3)
+* [2016 - Over the Horizon Unpacked - Dubstep](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2016%20-%20Over%20the%20Horizon%20Unpacked%20-%20Dubstep.mp3)
+* [2016 - Over the Horizon Unpacked - S7-Note7](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2016%20-%20Over%20the%20Horizon%20Unpacked%20-%20S7-Note7.mp3)
+* [2016 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3)
+* [2017 - Over the Horizon Unpacked - S8](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2017%20-%20Over%20the%20Horizon%20Unpacked%20-%20S8.mp3)
+* [2017 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3)
+* [2018 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3)
+* [2019 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3)
+* [2020 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3)
+* [2021 - Over the Horizon - by Suga of BTS](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2021%20-%20Over%20the%20Horizon%20-%20by%20Suga%20of%20BTS.mp3)
+* [2021 - Over the Horizon Unpacked v1](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2021%20-%20Over%20the%20Horizon%20Unpacked%20v1.mp3)
+* [2021 - Over the Horizon Unpacked v2](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2021%20-%20Over%20the%20Horizon%20Unpacked%20v2.mp3)
+* [2021 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3)
+* [2022 - Over the Horizon - by Suga of BTS](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2022%20-%20Over%20the%20Horizon%20-%20by%20Suga%20of%20BTS.mp3)
+* [2022 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3)
+* [2023 - Over he Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2023%20-%20Over%20he%20Horizon.mp3)
+* [2024 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3)
 * **Length : 01:12:37** LONGEST!
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg" width="50"> Sony
-* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Sony%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Sony)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FSony)
+* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Sony%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Sony)
+* [2013 - Original](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2013%20-%20Original.mp3)
+* [2014 - Default](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2014%20-%20Default.mp3)
+* [2015 - Default](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2015%20-%20Default.mp3)
+* [2016 - Default](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2016%20-%20Default.mp3)
+* [2019 - Default](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2019%20-%20Default.mp3)
 * **Length : 00:01:18**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Vivo_logo_2019.svg" width="50"> Vivo
-* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Vivo%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Vivo)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FVivo)
+* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Vivo%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Vivo)
+* [2011 - Lovely Xylophone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2011%20-%20Lovely%20Xylophone.mp3)
+* [2013 - Sunrise View](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2013%20-%20Sunrise%20View.mp3)
+* [2014 - Sunrise View](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2014%20-%20Sunrise%20View.mp3)
+* [2019 - Blue Meteor Showers](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2019%20-%20Blue%20Meteor%20Showers.mp3)
+* [2021 - Jovi Lifestyle](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2021%20-%20Jovi%20Lifestyle.mp3)
+* [2022 - Indomitable will](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2022%20-%20Indomitable%20will.mp3)
 * **Length : 00:02:47**
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" width="18"> Xiaomi
-* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Xiaomi%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Xiaomi)  
-* [![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20zip-07bbbc?style=for-the-badge)](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLIGMATV%2FAwesome-Ringtone%2Ftree%2Fmain%2Fringtones%2FXiaomi)
+* [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Xiaomi%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Xiaomi)
+* [2013 - Mi](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2013%20-%20Mi.mp3)
+* [2015 - Mi](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2015%20-%20Mi.mp3)
+* [2016 - Mi](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2016%20-%20Mi.mp3)
+* [2017 - MiXyolophone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2017%20-%20MiXyolophone.mp3)
+* [2018 - Mi](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2018%20-%20Mi.mp3)
+* [2018 - Poco](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2018%20-%20Poco.mp3)
+* [2019 - Mi Electronic](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2019%20-%20Mi%20Electronic.mp3)
 * **Length : 00:02:40**
