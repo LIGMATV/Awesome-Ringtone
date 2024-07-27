@@ -10,18 +10,18 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 > [!WARNING]  
 > These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Android_Robot_Head_2023.svg" width="18"> Android
+## ![logo](https://api.iconify.design/simple-icons:android.svg) Android
 * [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
 * **Length : 00:00:21**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="18"> Apple
+## ![logo](https://api.iconify.design/simple-icons:apple.svg) Apple
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Apple%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Apple)  
 * [2007 - Marimba](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Apple/2007%20-%20Marimba.mp3)
 * [2010 - Opening](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Apple/2010%20-%20Opening.mp3)
 * [2017 - Reflection](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Apple/2017%20-%20Reflection.mp3)
 * **Length : 00:00:52**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="18"> Google 
+## ![logo](https://api.iconify.design/simple-icons:google.svg) Google 
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Google%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Google%20Pixel)  
 * [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
 * [2016 - Zen](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Zen.mp3)
@@ -29,7 +29,7 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2021 - Your New Adventure](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2021%20-%20Your%20New%20Adventure.mp3)
 * **Length : 00:01:19**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/LG_symbol.svg" width="18"> LG
+## ![logo](https://api.iconify.design/simple-icons:lg.svg) LG
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20LG%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/LG)
 * [2012 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2012%20-%20Life's%20Good.mp3)
 * [2013 - Life's Good Music](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2013%20-%20Life's%20Good%20Music.mp3)
@@ -48,7 +48,7 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2021 - Life's Good](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/LG/2021%20-%20Life's%20Good.mp3)
 * **Length : 00:21:13**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/OPPO_logo.svg" width="50"> Oppo
+## ![logo](https://api.iconify.design/simple-icons:oppo.svg) Oppo
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Oppo%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Oppo)
 * [2013 - Enjoy](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2013%20-%20Enjoy.mp3)
 * [2016 - Future](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2016%20-%20Future.mp3)
@@ -57,15 +57,15 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2019 - Pure](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2019%20-%20Pure.mp3)
 * [2020 - Calm](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2020%20-%20Calm.mp3)
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Poco_Smartphone_Company_logo.svg" width="50"> Poco
+## ![logo](https://api.iconify.design/simple-icons:xiaomi.svg) Poco
 * [2018 - Poco](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2018%20-%20Poco.mp3)
 * **Length : 00:00:22**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Realme_logo.svg" width="50"> Realme
+## ![logo](https://api.iconify.design/simple-icons:oppo.svg) Realme
 * [2018 - It's Realme](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)
 * **Length : 00:00:23**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" width="50"> Samsung
+## ![logo](https://api.iconify.design/simple-icons:samsung.svg) Samsung
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Samsung%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Samsung)  
 * [2006 - Original](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2006%20-%20Original.mp3)
 * [2008 - Original Flute](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2008%20-%20Original%20Flute.mp3)
@@ -97,7 +97,7 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2024 - Over the Horizon](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3)
 * **Length : 01:12:37** LONGEST!
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg" width="50"> Sony
+## ![logo](https://api.iconify.design/simple-icons:sony.svg) Sony
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Sony%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Sony)
 * [2013 - Original](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2013%20-%20Original.mp3)
 * [2014 - Default](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2014%20-%20Default.mp3)
@@ -106,7 +106,7 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2019 - Default](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Sony/2019%20-%20Default.mp3)
 * **Length : 00:01:18**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Vivo_logo_2019.svg" width="50"> Vivo
+## ![logo](https://api.iconify.design/simple-icons:vivo.svg) Vivo
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Vivo%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Vivo)
 * [2011 - Lovely Xylophone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2011%20-%20Lovely%20Xylophone.mp3)
 * [2013 - Sunrise View](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2013%20-%20Sunrise%20View.mp3)
@@ -116,7 +116,7 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2022 - Indomitable will](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Vivo/2022%20-%20Indomitable%20will.mp3)
 * **Length : 00:02:47**
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" width="18"> Xiaomi
+## ![logo](https://api.iconify.design/simple-icons:xiaomi.svg) Xiaomi
 * [![](https://img.shields.io/badge/%F0%9F%8E%B6%20Browse%20Xiaomi%20Ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones/Xiaomi)
 * [2013 - Mi](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2013%20-%20Mi.mp3)
 * [2015 - Mi](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2015%20-%20Mi.mp3)
@@ -126,3 +126,7 @@ The links is playable using [JSDelivr](https://www.jsdelivr.com/github).
 * [2018 - Poco](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2018%20-%20Poco.mp3)
 * [2019 - Mi Electronic](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Xiaomi/2019%20-%20Mi%20Electronic.mp3)
 * **Length : 00:02:40**
+
+---
+
+Want to share your thoughts about some ringtones here? Say it to [💬 Discussion](https://github.com/LIGMATV/Awesome-Ringtone/discussions)!
