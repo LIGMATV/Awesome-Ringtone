@@ -1,14 +1,21 @@
+> **⚠️ WARNING**
+> 
+> These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
+
 # Awesome-Ringtone
+
 ![](https://awesome.re/badge.svg)
 
 📞📲🎶 An awesome & curated list of brands ringtone.  
 
-[![](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)
-[![](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20All%20(%C2%B1133MB)-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
+[![Browse](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)
+[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=for-the-badge&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
+[![NPM Version](https://img.shields.io/npm/v/ringtones?style=for-the-badge&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones)
 
-> **⚠️ WARNING**
-> 
-> These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
+## Get started
+```
+npm install ringtones
+```
 
 ## ![logo](https://api.iconify.design/simple-icons:android.svg) Android
 * [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/Awesome-Ringtone@main/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
