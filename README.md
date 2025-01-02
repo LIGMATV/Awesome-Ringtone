@@ -26,6 +26,9 @@
   - [Vivo](#-vivo)
   - [Xiaomi](#-xiaomi)
     - [Poco](#poco)
+- [Related](#related)
+  - [Apps](#apps)
+  - [Article](#article)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -184,6 +187,27 @@ https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.m
 * [2018 - Poco](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2018%20-%20Poco.mp3)  
 **Length : 00:00:22**
 
+## Related
+
+### Apps
+
+- [Android Ringtone Picker](https://github.com/kevalpatel2106/android-ringtone-picker/releases) `FOSS` - Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
+- [Anytune Ringtones](https://play.google.com/store/apps/details?id=best.create.ringtone.maker.audio.mp3.converter.garage&hl=en) - Anytune Ringtones is the app you need to create personalized ringtones effortlessly.
+- [Garage Ringtone](https://play.google.com/store/apps/details?id=ringtone.maker.mp3.audio&hl=en) - Create free ringtones, notification sounds, and custom alarm clock audio easily.
+- [MP3 Cutter and Ringtone Maker](https://play.google.com/store/apps/details?id=ringtone.maker.mp3.cutter.audio&hl=en) - With MP3 Cutter & Ringtone Maker, you can easily trim, merge, mix music and accurately cut out the tuneful part of songs to set it as a unique ringtone for every contact.
+- [Ringo Ringtones Notifications](https://play.google.com/store/apps/details?id=com.centralparkapps.ringo.ringtones&hl=en) - Ringo offers thousands of free ringtones and notification sounds in the most popular categories and from popular songs and music.
+- [Ringtone Maker](https://play.google.com/store/apps/details?id=ringtonemaker.musiccutter.customringtones.freeringtonemaker&hl=en) - Free Ringtone Maker: Music Cutter, Custom Ringtone is a free ringtone maker app to make custom ringtones.
+- [Ringtones for Android](https://play.google.com/store/apps/details?id=com.bestringtonesapps.freeringtonesforandroid&hl=en) - Ringtones for Android helps you to easily personalize your phone with music ringtones and HD wallpapers.
+- [Solovey](https://play.google.com/store/apps/details?id=su.solovey.app&hl=en) - SOLOVEY Android ringtones, notification and alarm sounds, music and songs for phone calls, message tones right in your pocket.
+- [UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker/releases) `FOSS` - Pick ringtone, notification, alarm sound and ringtone files from external storage with an activity or a dialog
+
+### Article
+
+- [Change your ringtone on popular messaging apps](https://www.androidpolice.com/change-android-ringtone/#bonus-change-your-ringtone-on-popular-messaging-apps) - (For WhatsApp, Google Meet, Telegram, and Discord)
+- [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to) (For Samsung and Google Pixel)
+- [How to Set a Ringtone for an Android Contact](https://www.wikihow.com/Set-a-Ringtone-for-an-Android-Contact) (For Samsung Phone and Google Contact)
+- [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) (For Xiaomi, Redmi and Poco)
+- [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) (For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps)
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
