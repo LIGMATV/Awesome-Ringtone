@@ -1,0 +1,20 @@
+{
+  "name": "ringtones",
+  "version": "2025.1.2",
+  "description": "📞📲🎶 An awesome & curated list of brands ringtone.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIGMATV/Awesome-Ringtone.git"
+  },
+  "keywords": [
+    "awesome",
+    "ringtones",
+    "samsung-ringtone"
+  ],
+  "author": "Various",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/LIGMATV/Awesome-Ringtone/issues"
+  },
+  "homepage": "https://github.com/LIGMATV/Awesome-Ringtone#readme"
+}
