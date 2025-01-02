@@ -4,12 +4,11 @@
 
 # Awesome-Ringtone
 
-![](https://awesome.re/badge.svg)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![NPM Version](https://img.shields.io/npm/v/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones)
+[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=flat-square&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
 📞📲🎶 An awesome & curated list of brands ringtone.  
-
-[![NPM Version](https://img.shields.io/npm/v/ringtones?style=for-the-badge&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones)
-[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=for-the-badge&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
 ## Get started
 ```
