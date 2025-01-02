@@ -2,7 +2,7 @@
 > 
 > These all ringtones was not my own, it is obtained from YouTube and brand communities. Copyright is still in brands or creator hand.
 
-# Awesome-Ringtone
+# Awesome Ringtone
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![NPM Version](https://img.shields.io/npm/v/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones)
