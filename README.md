@@ -8,9 +8,8 @@
 
 📞📲🎶 An awesome & curated list of brands ringtone.  
 
-[![Browse](https://img.shields.io/badge/%F0%9F%93%82%F0%9F%8E%B6%20Browse%20ringtones-ececec?style=for-the-badge)](https://github.com/LIGMATV/Awesome-Ringtone/tree/main/ringtones)
-[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=for-the-badge&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 [![NPM Version](https://img.shields.io/npm/v/ringtones?style=for-the-badge&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones)
+[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=for-the-badge&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
 ## Get started
 ```
