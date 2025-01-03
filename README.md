@@ -148,7 +148,7 @@ https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.m
 * [2021 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3)
 * [2022 - Over the Horizon - by Suga of BTS](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon%20-%20by%20Suga%20of%20BTS.mp3)
 * [2022 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3)
-* [2023 - Over he Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20he%20Horizon.mp3)
+* [2023 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3)
 * [2024 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3)
 
 **Length : 01:12:37**
@@ -208,6 +208,7 @@ https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.m
 - [How to Set a Ringtone for an Android Contact](https://www.wikihow.com/Set-a-Ringtone-for-an-Android-Contact) (For Samsung Phone and Google Contact)
 - [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) (For Xiaomi, Redmi and Poco)
 - [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) (For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
