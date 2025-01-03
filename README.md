@@ -11,10 +11,10 @@
 
 ## Contents
 
-- [Get started](#get-started)
-  - [Terminal](#terminal)
-  - [CDN](#cdn)
 - [Brands](#brands)
+  - [Get started](#get-started)
+    - [Terminal](#terminal)
+    - [CDN](#cdn)
   - [Apple](#-apple)
   - [Google Pixel](#-google)
     - [Android](#-android)
@@ -32,9 +32,11 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Get started
+## Brands
 
-### Terminal
+### Get started
+
+#### Terminal
 
 With [Node.js](https://nodejs.org/) installed, you can download the repository with two method.
 
@@ -54,19 +56,19 @@ Example: `npm run open:android:2016`. You can find the scripts from
 [`package.json:L6`](https://github.com/LIGMATV/awesome-ringtone/blob/main/package.json#L6).  
 Note: This usage needs [`open-cli`](https://www.npmjs.com/package/open-cli) package.
 
-### CDN
+#### CDN
 
 JSDelivr is recommended for it's ability to rapidly fetch a big 
 package size, includes `ringtones` package.
 ```
 https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 ```
-Example:
-```
-https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3
-```
+> [**Example**](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3):
+> ```
+> https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3
+> ```
 
-## Brands
+---
 
 ### ![logo](https://api.iconify.design/simple-icons:apple.svg) [Apple](https://github.com/LIGMATV/awesome-ringtone/tree/main/Apple)
 * [2007 - Marimba](https://cdn.jsdelivr.net/npm/ringtones/Apple/2007%20-%20Marimba.mp3)
