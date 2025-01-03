@@ -1,4 +1,4 @@
-![Over the Horizon Banner](_media/over-the-horizon-banner.png)
+# ![Awesome Ringtone](_media/over-the-horizon-banner.png)
 
 <br>
 <div align="center">
