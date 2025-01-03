@@ -1,6 +1,16 @@
-# Awesome Ringtone [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![NPM Version](https://img.shields.io/npm/v/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones) [![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=flat-square&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
+![Over the Horizon Banner](_media/over-the-horizon-banner.png)
+
+<br>
+<div align="center">
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![NPM Version](https://img.shields.io/npm/v/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones) [![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=flat-square&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
 📞📲🎶 An awesome & curated list of ringtones from well-known brands such as Apple, LG, Samsung, etc.
+
+[Check out the full-length Samsung's Brand Music "Over the Horizon"](#over-the-horizon) <sup>(2011-2024)</sup>
+
+</div>
+<br>
 
 ## Contents
 
