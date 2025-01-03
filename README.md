@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Over the Horizon](#over-the-horizon)
 - [Brands](#brands)
   - [Get started](#get-started)
     - [Terminal](#terminal)
@@ -24,11 +25,14 @@
   - [Article](#article)
 - [Copyright Notice](#copyright-notice)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 <div align="center">
 
-## ["Over the Horizon"](https://design.samsung.com/global/contents/over-the-horizon/) by Samsung
+## [Over the Horizon](https://design.samsung.com/global/contents/over-the-horizon/) 
+by Samsung
+
 [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202011.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202012.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202013-14.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202015.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202016.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202017.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202018.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202019.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202020.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202021.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202022.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202023.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/other.png" width="128">](#-samsung)
 
 </div>
@@ -157,7 +161,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 01:12:37**
 
-### [Sony](https://github.com/LIGMATV/awesome-ringtone/tree/main/Sony) ![](https://api.iconify.design/simple-icons:sony.svg)
+### [Sony](https://github.com/LIGMATV/awesome-ringtone/tree/main/Sony)
 - [2013 - Original](https://cdn.jsdelivr.net/npm/ringtones/Sony/2013%20-%20Original.mp3)
 - [2014 - Default](https://cdn.jsdelivr.net/npm/ringtones/Sony/2014%20-%20Default.mp3)
 - [2015 - Default](https://cdn.jsdelivr.net/npm/ringtones/Sony/2015%20-%20Default.mp3)
@@ -166,7 +170,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:01:18**
 
-### [Vivo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Vivo) ![](https://api.iconify.design/simple-icons:vivo.svg)
+### [Vivo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Vivo)
 - [2011 - Lovely Xylophone](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2011%20-%20Lovely%20Xylophone.mp3)
 - [2013 - Sunrise View](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2013%20-%20Sunrise%20View.mp3)
 - [2014 - Sunrise View](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2014%20-%20Sunrise%20View.mp3)
@@ -176,7 +180,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:02:47**
 
-### [Xiaomi](https://github.com/LIGMATV/awesome-ringtone/tree/main/Xiaomi) ![](https://api.iconify.design/simple-icons:xiaomi.svg)
+### [Xiaomi](https://github.com/LIGMATV/awesome-ringtone/tree/main/Xiaomi)
 - [2013 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2013%20-%20Mi.mp3)
 - [2015 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2015%20-%20Mi.mp3)
 - [2016 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2016%20-%20Mi.mp3)
@@ -227,12 +231,6 @@ Ltd., Samsung Electronics Co. Ltd., Sony Electronics Inc., Xiaomi Corp.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-## License
-
-This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details.
-
 ## Acknowledgments
 
 - [andrelouis.com](http://onj3.andrelouis.com/phonetones/) - For giving an original ringtone sources.
@@ -240,3 +238,9 @@ details.
 - [chiruyudo](https://www.youtube.com/@chiruyudophones) - For giving high quality ringtones.
 - [cobalt by imput](https://github.com/imputnet/cobalt) - To retrieve the audio version of a video format resource.
 - [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - For giving more information about Samsung's ringtones, especially Indonesia region.
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details.
