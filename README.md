@@ -2,33 +2,22 @@
 
 📞📲🎶 An awesome & curated list of ringtones from well-known brands such as Apple, LG, Samsung, etc.
 
-<!--lint disable awesome-list-item-->
-
-<div align="center">
-
-## ["Over the Horizon"](https://design.samsung.com/global/contents/over-the-horizon/) by Samsung
-[<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202011.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202012.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202013-14.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202015.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202016.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202017.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202018.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202019.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202020.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202021.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202022.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202023.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/other.png" width="128">](#-samsung)
-
-</div>
-
-<!--lint enable awesome-list-item-->
-
 ## Contents
 
 - [Brands](#brands)
   - [Get started](#get-started)
     - [Terminal](#terminal)
     - [CDN](#cdn)
-  - [Apple](#apple-)
-  - [Google Pixel](#google-)
+  - [Apple](#apple)
+  - [Google Pixel](#google)
     - [Android](#android)
-  - [LG](#lg-)
-  - [Oppo](#oppo-)
+  - [LG](#lg)
+  - [Oppo](#oppo)
     - [Realme](#realme)
-  - [Samsung](#samsung-)
-  - [Sony](#sony-)
-  - [Vivo](#vivo-)
-  - [Xiaomi](#xiaomi-)
+  - [Samsung](#samsung)
+  - [Sony](#sony)
+  - [Vivo](#vivo)
+  - [Xiaomi](#xiaomi)
     - [Poco](#poco)
 - [Related](#related)
   - [Apps](#apps)
@@ -36,6 +25,13 @@
 - [Copyright Notice](#copyright-notice)
 - [Contributing](#contributing)
 - [License](#license)
+
+<div align="center">
+
+## ["Over the Horizon"](https://design.samsung.com/global/contents/over-the-horizon/) by Samsung
+[<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202011.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202012.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202013-14.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202015.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202016.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202017.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202018.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202019.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202020.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202021.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202022.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202023.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/other.png" width="128">](#-samsung)
+
+</div>
 
 ## Brands
 
@@ -45,12 +41,13 @@
 
 With [Node.js](https://nodejs.org/) installed, you can download the repository with two method.
 
-1. **`git clone`**
+##### `git clone`
 ```
 git clone https://github.com/LIGMATV/awesome-ringtone.git
 cd awesome-ringtone
 ```
-2. **NPM**
+
+##### NPM
 ```
 npm install ringtones
 ```
@@ -68,32 +65,33 @@ package size, includes `ringtones` package.
 ```
 https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 ```
-> [**Example**](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3):
+> **Example**:
 > ```
 > https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3
 > ```
 
 ---
 
-### [Apple](https://github.com/LIGMATV/awesome-ringtone/tree/main/Apple) ![](https://api.iconify.design/simple-icons:apple.svg)
+### [Apple](https://github.com/LIGMATV/awesome-ringtone/tree/main/Apple)
 - [2007 - Marimba](https://cdn.jsdelivr.net/npm/ringtones/Apple/2007%20-%20Marimba.mp3)
 - [2010 - Opening](https://cdn.jsdelivr.net/npm/ringtones/Apple/2010%20-%20Opening.mp3)
 - [2017 - Reflection](https://cdn.jsdelivr.net/npm/ringtones/Apple/2017%20-%20Reflection.mp3)
 
 **Length : 00:00:52**
 
-### [Google](https://github.com/LIGMATV/awesome-ringtone/tree/main/Google%20Pixel) ![](https://api.iconify.design/simple-icons:google.svg)
+### [Google](https://github.com/LIGMATV/awesome-ringtone/tree/main/Google%20Pixel)
 - [2016 - Zen](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Zen.mp3)
 - [2017 - The Big Adventure](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2017%20-%20The%20Big%20Adventure.mp3)
 - [2021 - Your New Adventure](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2021%20-%20Your%20New%20Adventure.mp3)
 
 **Length : 00:01:19**
 
-#### Android ![](https://api.iconify.design/simple-icons:android.svg)
-- [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)  
+#### Android
+- [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
+
 **Length : 00:00:21**
 
-### [LG](https://github.com/LIGMATV/awesome-ringtone/tree/main/LG) ![](https://api.iconify.design/simple-icons:lg.svg)
+### [LG](https://github.com/LIGMATV/awesome-ringtone/tree/main/LG)
 - [2012 - Life's Good](https://cdn.jsdelivr.net/npm/ringtones/LG/2012%20-%20Life's%20Good.mp3)
 - [2013 - Life's Good Music](https://cdn.jsdelivr.net/npm/ringtones/LG/2013%20-%20Life's%20Good%20Music.mp3)
 - [2013 - Life's Good](https://cdn.jsdelivr.net/npm/ringtones/LG/2013%20-%20Life's%20Good.mp3)
@@ -112,7 +110,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:21:13**
 
-### [Oppo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Oppo) ![](https://api.iconify.design/simple-icons:oppo.svg)
+### [Oppo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Oppo)
 - [2013 - Enjoy](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2013%20-%20Enjoy.mp3)
 - [2016 - Future](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2016%20-%20Future.mp3)
 - [2018 - Colorful Life](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20Colorful%20Life.mp3)
@@ -122,10 +120,11 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 **Length : 00:02:18**
   
 #### Realme
-- [2018 - It's Realme](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)  
+- [2018 - It's Realme](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)
+
 **Length : 00:00:23**
 
-### [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung) ![](https://api.iconify.design/simple-icons:samsung.svg)
+### [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung)
 - [2006 - Original](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2006%20-%20Original.mp3)
 - [2008 - Beyond Samsung](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Beyond%20Samsung.mp3)
 - [2008 - Original Flute](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Flute.mp3)
@@ -188,7 +187,8 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 **Length : 00:02:40**
 
 #### Poco
-- [2018 - Poco](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2018%20-%20Poco.mp3)  
+- [2018 - Poco](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2018%20-%20Poco.mp3)
+
 **Length : 00:00:22**
 
 ## Related
@@ -235,8 +235,8 @@ details.
 
 ## Acknowledgments
 
-- [andrelouis.com](http://onj3.andrelouis.com/phonetones/) - for giving an original ringtone sources.
-- [Billie Thompson](https://github.com/PurpleBooth/a-good-readme-template) - for the inspiration of make good README.md.
-- [chiruyudo](https://www.youtube.com/@chiruyudophones) - for giving high quality ringtones.
-- [cobalt by imput](https://github.com/imputnet/cobalt) - to retrieve the audio version of a video format resource.
-- [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - especially Indonesia region.
+- [andrelouis.com](http://onj3.andrelouis.com/phonetones/) - For giving an original ringtone sources.
+- [Billie Thompson](https://github.com/PurpleBooth/a-good-readme-template) - For the inspiration of make good README.md.
+- [chiruyudo](https://www.youtube.com/@chiruyudophones) - For giving high quality ringtones.
+- [cobalt by imput](https://github.com/imputnet/cobalt) - To retrieve the audio version of a video format resource.
+- [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - For giving more information about Samsung's ringtones, especially Indonesia region.
