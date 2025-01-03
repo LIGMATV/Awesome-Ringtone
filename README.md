@@ -148,7 +148,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 - [2022 - Over the Horizon - by Suga of BTS](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon%20-%20by%20Suga%20of%20BTS.mp3)
 - 2022 - Over the Horizon
 - 2023 - Over the Horizon
-- [2024 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3)
+- 2024 - Over the Horizon
 
 **Length : 01:12:37**
 
