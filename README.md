@@ -1,7 +1,6 @@
-# ![Awesome Ringtone](_media/over-the-horizon-banner.png)
-
-<br>
 <div align="center">
+
+# ![Awesome Ringtone](_media/over-the-horizon-banner.png)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![NPM Version](https://img.shields.io/npm/v/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones) [![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=flat-square&label=Download%20All)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
 
