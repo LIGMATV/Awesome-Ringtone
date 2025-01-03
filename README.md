@@ -6,25 +6,19 @@
 
 - [Brands](#brands)
   - [Get started](#get-started)
-    - [Terminal](#terminal)
-    - [CDN](#cdn)
   - [Apple](#apple)
-  - [Google Pixel](#google)
-    - [Android](#android)
+  - [Google](#google)
   - [LG](#lg)
   - [Oppo](#oppo)
-    - [Realme](#realme)
   - [Samsung](#samsung)
   - [Sony](#sony)
   - [Vivo](#vivo)
   - [Xiaomi](#xiaomi)
-    - [Poco](#poco)
 - [Related](#related)
-  - [Apps](#apps)
-  - [Article](#article)
 - [Copyright Notice](#copyright-notice)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+
 
 ## Brands
 
@@ -193,6 +187,7 @@ Special section: [Over the Horizon](https://design.samsung.com/global/contents/o
 
 **Length : 00:00:22**
 
+
 ## Related
 
 ### Apps
@@ -207,6 +202,7 @@ Special section: [Over the Horizon](https://design.samsung.com/global/contents/o
 - [Solovey](https://play.google.com/store/apps/details?id=su.solovey.app&hl=en) - SOLOVEY Android ringtones, notification and alarm sounds, music and songs for phone calls, message tones right in your pocket.
 - [UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker/releases) `FOSS` - Pick ringtone, notification, alarm sound and ringtone files from external storage with an activity or a dialog.
 
+
 ### Article
 
 - [Change your ringtone on popular messaging apps](https://www.androidpolice.com/change-android-ringtone/#bonus-change-your-ringtone-on-popular-messaging-apps) - For WhatsApp, Google Meet, Telegram, and Discord.
@@ -214,6 +210,7 @@ Special section: [Over the Horizon](https://design.samsung.com/global/contents/o
 - [How to Set a Ringtone for an Android Contact](https://www.wikihow.com/Set-a-Ringtone-for-an-Android-Contact) - For Samsung Phone and Google Contact.
 - [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) - For Xiaomi, Redmi and Poco.
 - [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) - For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps.
+
 
 ## Copyright Notice
 
@@ -225,10 +222,12 @@ copyright in things that use this.
 © 2025 Apple Inc., Google LLC, LG Electronics Inc., BBK Electronics Corp. 
 Ltd., Samsung Electronics Co. Ltd., Sony Electronics Inc., Xiaomi Corp.
 
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
+
 
 ## Acknowledgments
 
