@@ -15,9 +15,9 @@
   - [Vivo](#vivo)
   - [Xiaomi](#xiaomi)
 - [Related](#related)
+- [Acknowledgments](#acknowledgments)
 - [Copyright Notice](#copyright-notice)
 - [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Brands
@@ -211,6 +211,14 @@ Special section: [Over the Horizon](https://design.samsung.com/global/contents/o
 - [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) - For Xiaomi, Redmi and Poco.
 - [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) - For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps.
 
+## Acknowledgments
+
+- [andrelouis.com](http://onj3.andrelouis.com/phonetones/) - For giving an original ringtone sources.
+- [Billie Thompson](https://github.com/PurpleBooth/a-good-readme-template) - For the inspiration of make good README.md.
+- [chiruyudo](https://www.youtube.com/@chiruyudophones) - For giving high quality ringtones.
+- [cobalt by imput](https://github.com/imputnet/cobalt) - To retrieve the audio version of a video format resource.
+- [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - For giving more information about Samsung's ringtones, especially Indonesia region.
+
 
 ## Copyright Notice
 
@@ -228,11 +236,3 @@ Ltd., Samsung Electronics Co. Ltd., Sony Electronics Inc., Xiaomi Corp.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-
-## Acknowledgments
-
-- [andrelouis.com](http://onj3.andrelouis.com/phonetones/) - For giving an original ringtone sources.
-- [Billie Thompson](https://github.com/PurpleBooth/a-good-readme-template) - For the inspiration of make good README.md.
-- [chiruyudo](https://www.youtube.com/@chiruyudophones) - For giving high quality ringtones.
-- [cobalt by imput](https://github.com/imputnet/cobalt) - To retrieve the audio version of a video format resource.
-- [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - For giving more information about Samsung's ringtones, especially Indonesia region.
