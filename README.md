@@ -4,7 +4,6 @@
 
 ## Contents
 
-- [Over the Horizon](#over-the-horizon)
 - [Brands](#brands)
   - [Get started](#get-started)
     - [Terminal](#terminal)
@@ -26,16 +25,6 @@
 - [Copyright Notice](#copyright-notice)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
-
-<div align="center">
-
-## [Over the Horizon](https://design.samsung.com/global/contents/over-the-horizon/) 
-by Samsung
-
-[<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202011.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202012.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202013-14.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202015.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202016.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202017.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202018.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202019.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202020.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202021.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202022.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202023.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/other.png" width="128">](#-samsung)
-
-</div>
 
 ## Brands
 
@@ -129,6 +118,15 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 **Length : 00:00:23**
 
 ### [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung)
+
+<div align="center">
+
+Special section: [Over the Horizon](https://design.samsung.com/global/contents/over-the-horizon/) 
+
+[<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202011.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202012.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202013-14.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202015.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202016.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202017.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202018.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202019.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202020.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202021.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202022.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/over-the-horizon%202023.png" width="128">](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) [<img src="https://raw.githubusercontent.com/LIGMATV/awesome-ringtone/refs/heads/main/_media/other.png" width="128">](#-samsung)
+
+</div>
+
 - [2006 - Original](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2006%20-%20Original.mp3)
 - [2008 - Beyond Samsung](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Beyond%20Samsung.mp3)
 - [2008 - Original Flute](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Flute.mp3)
@@ -220,8 +218,9 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 ## Copyright Notice
 
 All ringtones are not mine, they are obtained from YouTube and brand
-community. Copyright is held by the brand or creator.  
-Consider to give the full copyright in things that use this.
+community. Copyright is held by the brand or creator, see the 
+[LICENSE.md](LICENSE.md) file for details. Consider to give the full 
+copyright in things that use this.
 
 © 2025 Apple Inc., Google LLC, LG Electronics Inc., BBK Electronics Corp. 
 Ltd., Samsung Electronics Co. Ltd., Sony Electronics Inc., Xiaomi Corp.
@@ -238,9 +237,3 @@ of conduct, and the process for submitting pull requests to us.
 - [chiruyudo](https://www.youtube.com/@chiruyudophones) - For giving high quality ringtones.
 - [cobalt by imput](https://github.com/imputnet/cobalt) - To retrieve the audio version of a video format resource.
 - [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - For giving more information about Samsung's ringtones, especially Indonesia region.
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details.
