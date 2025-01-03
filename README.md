@@ -17,7 +17,6 @@
 - [Related](#related)
 - [Acknowledgments](#acknowledgments)
 - [Copyright Notice](#copyright-notice)
-- [Contributing](#contributing)
 
 
 ## Brands
@@ -210,6 +209,7 @@ Special section: [Over the Horizon](https://design.samsung.com/global/contents/o
 - [How to Set a Ringtone for an Android Contact](https://www.wikihow.com/Set-a-Ringtone-for-an-Android-Contact) - For Samsung Phone and Google Contact.
 - [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) - For Xiaomi, Redmi and Poco.
 - [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) - For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps.
+
 
 ## Acknowledgments
 
