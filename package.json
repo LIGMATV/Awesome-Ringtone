@@ -1,6 +1,6 @@
 {
   "name": "ringtones",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "📞📲🎶 An awesome & curated list of brands ringtone.",
   "main": "README.md",
   "scripts": {
@@ -36,6 +36,7 @@
     "open:poco:2018": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2018%20-%20Poco.mp3",
     "open:realme:2018": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20It's%20Realme.mp3",
     "open:samsung:2006": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Samsung/2006%20-%20Original.mp3",
+    "open:samsung:2008:beyond": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Beyond%20Samsung.mp3",
     "open:samsung:2008:flute": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Flute.mp3",
     "open:samsung:2008:galaxy": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Galaxy%20S.mp3",
     "open:samsung:2011": "open-cli https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3",
@@ -92,7 +93,7 @@
     "samsung-ringtone"
   ],
   "author": "Various",
-  "license": "Unlicense",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/LIGMATV/Awesome-Ringtone/issues"
   },
