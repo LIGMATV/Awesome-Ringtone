@@ -123,6 +123,7 @@ https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.m
 
 ### ![logo](https://api.iconify.design/simple-icons:samsung.svg) [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung)
 * [2006 - Original](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2006%20-%20Original.mp3)
+* [2008 - Beyond Samsung](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Beyond%20Samsung.mp3)
 * [2008 - Original Flute](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Flute.mp3)
 * [2008 - Original Galaxy S](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Galaxy%20S.mp3)
 * [2011 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3)
@@ -214,17 +215,25 @@ https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.m
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-## License
+## Copyright Notice
 
 **All ringtones are not mine, they are obtained from YouTube and brand 
-community. Copyright is held by the brand or creator.**
+community. Copyright is held by the brand or creator.  
+Consider to give the full copyright in things that use this.**
+
+© 2025 Apple Inc., Google LLC, LG Electronics Inc., BBK Electronics Corp. 
+Ltd., Samsung Electronics Co. Ltd., Sony Electronics Inc., Xiaomi Corp.
+
+## License
+
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details.
 
 ## Acknowledgments
 
-- [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id), especially Indonesia region.
-- [chiruyudo](https://www.youtube.com/@chiruyudophones), for giving high quality ringtones.
 - [andrelouis.com](http://onj3.andrelouis.com/phonetones/), for giving an original ringtone sources.
 - [Billie Thompson](https://github.com/PurpleBooth/a-good-readme-template), for the inspiration of make good README.md.
+- [chiruyudo](https://www.youtube.com/@chiruyudophones), for giving high quality ringtones.
+- [cobalt by imput](https://github.com/imputnet/cobalt), to retrieve the audio version of a video format resource.
+- [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id), especially Indonesia region.
