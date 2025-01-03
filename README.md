@@ -19,20 +19,21 @@
   - [Get started](#get-started)
     - [Terminal](#terminal)
     - [CDN](#cdn)
-  - [Apple](#-apple)
-  - [Google Pixel](#-google)
-    - [Android](#-android)
-  - [LG](#-lg)
-  - [Oppo](#-oppo)
+  - [Apple](#apple-)
+  - [Google Pixel](#google-)
+    - [Android](#android)
+  - [LG](#lg-)
+  - [Oppo](#oppo-)
     - [Realme](#realme)
-  - [Samsung](#-samsung)
-  - [Sony](#-sony)
-  - [Vivo](#-vivo)
-  - [Xiaomi](#-xiaomi)
+  - [Samsung](#samsung-)
+  - [Sony](#sony-)
+  - [Vivo](#vivo-)
+  - [Xiaomi](#xiaomi-)
     - [Poco](#poco)
 - [Related](#related)
   - [Apps](#apps)
   - [Article](#article)
+- [Copyright Notice](#copyright-notice)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -74,26 +75,25 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 ---
 
-### ![Apple](https://api.iconify.design/simple-icons:apple.svg) [Apple](https://github.com/LIGMATV/awesome-ringtone/tree/main/Apple)
+### [Apple](https://github.com/LIGMATV/awesome-ringtone/tree/main/Apple) ![](https://api.iconify.design/simple-icons:apple.svg)
 - [2007 - Marimba](https://cdn.jsdelivr.net/npm/ringtones/Apple/2007%20-%20Marimba.mp3)
 - [2010 - Opening](https://cdn.jsdelivr.net/npm/ringtones/Apple/2010%20-%20Opening.mp3)
 - [2017 - Reflection](https://cdn.jsdelivr.net/npm/ringtones/Apple/2017%20-%20Reflection.mp3)
 
 **Length : 00:00:52**
 
-### ![Google](https://api.iconify.design/simple-icons:google.svg) [Google](https://github.com/LIGMATV/awesome-ringtone/tree/main/Google%20Pixel)
-- [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)
+### [Google](https://github.com/LIGMATV/awesome-ringtone/tree/main/Google%20Pixel) ![](https://api.iconify.design/simple-icons:google.svg)
 - [2016 - Zen](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Zen.mp3)
 - [2017 - The Big Adventure](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2017%20-%20The%20Big%20Adventure.mp3)
 - [2021 - Your New Adventure](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2021%20-%20Your%20New%20Adventure.mp3)
 
 **Length : 00:01:19**
 
-#### ![Android](https://api.iconify.design/simple-icons:android.svg) Android
+#### Android ![](https://api.iconify.design/simple-icons:android.svg)
 - [2016 - Titanium - Android Material Ringtone](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Titanium%20-%20Android%20Material%20Ringtone.mp3)  
 **Length : 00:00:21**
 
-### ![LG](https://api.iconify.design/simple-icons:lg.svg) [LG](https://github.com/LIGMATV/awesome-ringtone/tree/main/LG)
+### [LG](https://github.com/LIGMATV/awesome-ringtone/tree/main/LG) ![](https://api.iconify.design/simple-icons:lg.svg)
 - [2012 - Life's Good](https://cdn.jsdelivr.net/npm/ringtones/LG/2012%20-%20Life's%20Good.mp3)
 - [2013 - Life's Good Music](https://cdn.jsdelivr.net/npm/ringtones/LG/2013%20-%20Life's%20Good%20Music.mp3)
 - [2013 - Life's Good](https://cdn.jsdelivr.net/npm/ringtones/LG/2013%20-%20Life's%20Good.mp3)
@@ -112,7 +112,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:21:13**
 
-### ![Oppo](https://api.iconify.design/simple-icons:oppo.svg) [Oppo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Oppo)
+### [Oppo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Oppo) ![](https://api.iconify.design/simple-icons:oppo.svg)
 - [2013 - Enjoy](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2013%20-%20Enjoy.mp3)
 - [2016 - Future](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2016%20-%20Future.mp3)
 - [2018 - Colorful Life](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20Colorful%20Life.mp3)
@@ -125,40 +125,40 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 - [2018 - It's Realme](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20It's%20Realme.mp3)  
 **Length : 00:00:23**
 
-### ![Samsung](https://api.iconify.design/simple-icons:samsung.svg) [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung)
+### [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung) ![](https://api.iconify.design/simple-icons:samsung.svg)
 - [2006 - Original](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2006%20-%20Original.mp3)
 - [2008 - Beyond Samsung](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Beyond%20Samsung.mp3)
 - [2008 - Original Flute](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Flute.mp3)
 - [2008 - Original Galaxy S](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2008%20-%20Original%20Galaxy%20S.mp3)
-- [2011 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3)
-- [2012 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3)
-- [2013-14 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3)
+- 2011 - Over the Horizon
+- 2012 - Over the Horizon
+- 2013-14 - Over the Horizon
 - [2014 - Over the Horizon Soundcamp Live - Berlin IFA 2014](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2014%20-%20Over%20the%20Horizon%20Soundcamp%20Live%20-%20Berlin%20IFA%202014.mp3)
 - [2015 - Over the Horizon - TizenOS](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20-%20TizenOS.mp3)
 - [2015 - Over the Horizon Soundcamp Looper - Berlin IFA 2015](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20Soundcamp%20Looper%20-%20Berlin%20IFA%202015.mp3)
 - [2015 - Over the Horizon Unpacked v1](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20Unpacked%20v1.mp3)
 - [2015 - Over the Horizon Unpacked v2](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon%20Unpacked%20v2.mp3)
-- [2015 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3)
+- 2015 - Over the Horizon
 - [2016 - Over the Horizon Unpacked - Dubstep](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon%20Unpacked%20-%20Dubstep.mp3)
 - [2016 - Over the Horizon Unpacked - S7-Note7](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon%20Unpacked%20-%20S7-Note7.mp3)
-- [2016 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3)
+- 2016 - Over the Horizon
 - [2017 - Over the Horizon Unpacked - S8](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon%20Unpacked%20-%20S8.mp3)
-- [2017 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3)
-- [2018 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3)
-- [2019 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3)
-- [2020 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3)
+- 2017 - Over the Horizon
+- 2018 - Over the Horizon
+- 2019 - Over the Horizon
+- 2020 - Over the Horizon
 - [2021 - Over the Horizon - by Suga of BTS](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon%20-%20by%20Suga%20of%20BTS.mp3)
 - [2021 - Over the Horizon Unpacked v1](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon%20Unpacked%20v1.mp3)
 - [2021 - Over the Horizon Unpacked v2](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon%20Unpacked%20v2.mp3)
-- [2021 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3)
+- 2021 - Over the Horizon
 - [2022 - Over the Horizon - by Suga of BTS](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon%20-%20by%20Suga%20of%20BTS.mp3)
-- [2022 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3)
-- [2023 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3)
+- 2022 - Over the Horizon
+- 2023 - Over the Horizon
 - [2024 - Over the Horizon](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3)
 
 **Length : 01:12:37**
 
-### ![Sony](https://api.iconify.design/simple-icons:sony.svg) [Sony](https://github.com/LIGMATV/awesome-ringtone/tree/main/Sony)
+### [Sony](https://github.com/LIGMATV/awesome-ringtone/tree/main/Sony) ![](https://api.iconify.design/simple-icons:sony.svg)
 - [2013 - Original](https://cdn.jsdelivr.net/npm/ringtones/Sony/2013%20-%20Original.mp3)
 - [2014 - Default](https://cdn.jsdelivr.net/npm/ringtones/Sony/2014%20-%20Default.mp3)
 - [2015 - Default](https://cdn.jsdelivr.net/npm/ringtones/Sony/2015%20-%20Default.mp3)
@@ -167,7 +167,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:01:18**
 
-### ![Vivo](https://api.iconify.design/simple-icons:vivo.svg) [Vivo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Vivo)
+### [Vivo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Vivo) ![](https://api.iconify.design/simple-icons:vivo.svg)
 - [2011 - Lovely Xylophone](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2011%20-%20Lovely%20Xylophone.mp3)
 - [2013 - Sunrise View](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2013%20-%20Sunrise%20View.mp3)
 - [2014 - Sunrise View](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2014%20-%20Sunrise%20View.mp3)
@@ -177,7 +177,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:02:47**
 
-### ![Xiaomi](https://api.iconify.design/simple-icons:xiaomi.svg) [Xiaomi](https://github.com/LIGMATV/awesome-ringtone/tree/main/Xiaomi)
+### [Xiaomi](https://github.com/LIGMATV/awesome-ringtone/tree/main/Xiaomi) ![](https://api.iconify.design/simple-icons:xiaomi.svg)
 - [2013 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2013%20-%20Mi.mp3)
 - [2015 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2015%20-%20Mi.mp3)
 - [2016 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2016%20-%20Mi.mp3)
@@ -203,15 +203,15 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 - [Ringtone Maker](https://play.google.com/store/apps/details?id=ringtonemaker.musiccutter.customringtones.freeringtonemaker&hl=en) - Free Ringtone Maker: Music Cutter, Custom Ringtone is a free ringtone maker app to make custom ringtones.
 - [Ringtones for Android](https://play.google.com/store/apps/details?id=com.bestringtonesapps.freeringtonesforandroid&hl=en) - Ringtones for Android helps you to easily personalize your phone with music ringtones and HD wallpapers.
 - [Solovey](https://play.google.com/store/apps/details?id=su.solovey.app&hl=en) - SOLOVEY Android ringtones, notification and alarm sounds, music and songs for phone calls, message tones right in your pocket.
-- [UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker/releases) `FOSS` - Pick ringtone, notification, alarm sound and ringtone files from external storage with an activity or a dialog
+- [UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker/releases) `FOSS` - Pick ringtone, notification, alarm sound and ringtone files from external storage with an activity or a dialog.
 
 ### Article
 
-- [Change your ringtone on popular messaging apps](https://www.androidpolice.com/change-android-ringtone/#bonus-change-your-ringtone-on-popular-messaging-apps) - (For WhatsApp, Google Meet, Telegram, and Discord)
-- [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to) (For Samsung and Google Pixel)
-- [How to Set a Ringtone for an Android Contact](https://www.wikihow.com/Set-a-Ringtone-for-an-Android-Contact) (For Samsung Phone and Google Contact)
-- [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) (For Xiaomi, Redmi and Poco)
-- [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) (For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps)
+- [Change your ringtone on popular messaging apps](https://www.androidpolice.com/change-android-ringtone/#bonus-change-your-ringtone-on-popular-messaging-apps) - For WhatsApp, Google Meet, Telegram, and Discord.
+- [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to) - For Samsung and Google Pixel.
+- [How to Set a Ringtone for an Android Contact](https://www.wikihow.com/Set-a-Ringtone-for-an-Android-Contact) - For Samsung Phone and Google Contact.
+- [How to set custom ringtones on Xiaomi and Redmi](https://en.xiaomitoday.it/come-personalizzare-suoneria-xiaomi-redmi.html) - For Xiaomi, Redmi and Poco.
+- [The Ultimate Guide To How To Change Ringtones on Android](https://www.smartprix.com/bytes/the-ultimate-guide-to-how-to-change-ringtones-on-android/) - For Samsung, Google Pixel, Nothing, OnePlus, Oppo, Realme, Xiaomi, Redmi, Poco, Vivo, iQoo and Contact apps.
 
 ## Copyright Notice
 
