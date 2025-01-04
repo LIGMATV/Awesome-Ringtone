@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Awesome Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-banner.png)
+# ![Awesome Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone@refs/heads/main/_media/over-the-horizon-banner.png)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LIGMATV/awesome-ringtone/lint.yml?style=flat-square)](https://github.com/LIGMATV/awesome-ringtone/actions/workflows/lint.yml)
