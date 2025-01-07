@@ -2,5 +2,5 @@
   "name": "@ligmatv/ringtones",
   "version": "1.0.3",
   "license": "CC0-1.0",
-  "exports": "./package.json"
+  "exports": "./main.ts"
 }
